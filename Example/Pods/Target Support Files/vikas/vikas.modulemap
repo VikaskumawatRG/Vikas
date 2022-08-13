@@ -1,0 +1,6 @@
+framework module vikas {
+  umbrella header "vikas-umbrella.h"
+
+  export *
+  module * { export * }
+}

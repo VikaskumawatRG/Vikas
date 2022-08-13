@@ -1,0 +1,16 @@
+PODS:
+  - vikas (0.1.0)
+
+DEPENDENCIES:
+  - vikas (from `../`)
+
+EXTERNAL SOURCES:
+  vikas:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vikas: 16b3999eb680fefc718f6540ea7ff79385c3fe79
+
+PODFILE CHECKSUM: 93c9f161a649b8f01d1dcd291e2e62dc644c02f5
+
+COCOAPODS: 1.11.3
